@@ -92,3 +92,14 @@ p {
     text-align: center;
     padding: 10px 0px;
 }
+
+.sobre  {
+    font-style: normal;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.visao {
+    font-style: normal;
+    font-weight: bold;
+}

@@ -43,6 +43,13 @@ body {
     font-size: 16px;
     color: rgb(1, 1, 1);
 }
-ul li a {
-    font-size: 50px;
+
+ul li a img {
+    width: 33px;
+
 }
+
+
+    
+
+

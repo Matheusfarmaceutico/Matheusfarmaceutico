@@ -16,6 +16,8 @@ body {
 .outros_cont {
     text-align: center;
     margin: 0px;
+    margin-top: 20px;
+    padding-bottom: 0px;
 }
 .texto { 
     margin-bottom: 30px;
@@ -39,7 +41,6 @@ body {
 .github {
     margin: 0px 15px 0px 15px;
 }
-
 
 
 h1 {
@@ -69,7 +70,13 @@ h5 {
     margin-bottom: 5px;
     font-weight: 100;
     font-style: italic;
+    
 
+}
+ul li {
+    list-style: none;
+   
+    
 }
 
 
@@ -102,4 +109,9 @@ p {
 .visao {
     font-style: normal;
     font-weight: bold;
+}
+
+.emails {
+    text-align: center;
+    padding-left: 0px;
 }
